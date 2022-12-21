@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **florian.racine@centrale-marseille.fr**
 
-- 🌱 I highly recommend **Introduction to algorithms**
-
 <h3 align="left">My competitive programming account: </h3>
 <p align="left">
 <a href="https://codeforces.com/profile/evoprg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="evoprg" height="30" width="40" /></a>
