@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Florian</h1>
 <h3 align="center">A passionate developer from France 🇫🇷</h3>
 
-- 🤝 I’m storing my competitive programming envrionment in [code](https://github.com/florianRacine/code)
+- 🤝 I’m storing my competitive programming envrironment in [code](https://github.com/florianRacine/code)
 
 - 👨‍💻 You can see my personal website at [fracine.perso.ec-m.fr]
 
