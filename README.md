@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Florian</h1>
-<h3 align="center">A passionate developer from France</h3>
+<h3 align="center">A passionate developer from France 🇫🇷</h3>
 
-- 🌱 I’m currently reading **Introduction to algorithms (Fourth Edition)**
+- 🤝 I’m storing my competitive programming envrionment in [code](https://github.com/florianRacine/code)
 
-- 🤝 I’m storing my competitive program in [code](https://github.com/florianRacine/code)
+- 👨‍💻 You can see my personal website at [fracine.perso.ec-m.fr]
 
-- 👨‍💻 You can see my personal website at [http://fracine.perso.ec-m.fr/]
-
-- 🔭 I’m currently working in **Centrale Marseille**
+- 🔭 I’m currently a student of **Centrale Marseille**
 
 - 📫 How to reach me **florian.racine@centrale-marseille.fr**
+
+- 🌱 I highly recommend **Introduction to algorithms**
 
 <h3 align="left">My competitive programming account: </h3>
 <p align="left">
