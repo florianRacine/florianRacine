@@ -5,7 +5,7 @@
 
 - 🤝 I’m storing my competitive program in [code](https://github.com/florianRacine/code)
 
-- 👨‍💻 You can see my personal website at [fracine.perso.ec-m.fr](florian.perso.ec-m.fr)
+- 👨‍💻 You can see my personal website at [http://fracine.perso.ec-m.fr/]
 
 - 🔭 I’m currently working in **Centrale Marseille**
 
