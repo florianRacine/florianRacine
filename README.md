@@ -3,7 +3,7 @@
 
 - 🤝 I’m storing my competitive programming envrironment in [code](https://github.com/florianRacine/code)
 
-- 👨‍💻 You can see my personal website at [fracine.perso.ec-m.fr]
+- 👨‍💻 You can see my personal website at [http://fracine.perso.ec-m.fr]
 
 - 🔭 I’m currently a student of **Centrale Marseille**
 
